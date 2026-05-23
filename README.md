@@ -1,6 +1,7 @@
 ## Hi there, I'm Linda Gomes 👋
 
 🎓 Computer Science & Engeneering Student at American International University-Bangladesh 
+
 🔐 Aspiring Cybersecurity Specialist  
 🤖 Python & Machine Learning Enthusiast  
 🔬 Research & Development Explorer  

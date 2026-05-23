@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there, I'm Linda Gomes 👋
 
-<!--
-**marialindagomes/marialindagomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science & Engeneering Student at American International University-Bangladesh 
+🔐 Aspiring Cybersecurity Specialist  
+🤖 Python & Machine Learning Enthusiast  
+🔬 Research & Development Explorer  
+🎨 Graphic Designer  
+💼 Seeking Internship Opportunities  
+📚 Planning Higher Studies in Cybersecurity  
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Python
+- C++
+- Java
+- Machine Learning
+- HTML & CSS
+- Git & GitHub
+- Cybersecurity Fundamentals
+- Graphic Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ Passionate about learning, research, and building impactful projects.
+
+
+

@@ -14,8 +14,11 @@
 - Java
 - Machine Learning
 - HTML & CSS
+- JavaScript & PHP
+- C#
 - Git & GitHub
 - Cybersecurity Fundamentals
+- Networking 
 - Graphic Design
 
 ⭐ Passionate about learning, research, and building impactful projects.

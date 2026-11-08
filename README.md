@@ -270,7 +270,7 @@ class LindaMariaGomes:
 
 ---
 
-## 🎓 Education, Experience & Learning
+## 🎓 Education
 
 <div align="center">
 

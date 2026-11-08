@@ -14,7 +14,7 @@
   <a href="https://github.com/marialindagomes" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB%20PROFILE-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub Profile" />
   </a>
-  <a href="www.linkedin.com/in/linda-maria-gomes-a71151276" target="_blank">
+  <a href="https://www.linkedin.com/in/linda-maria-gomes-a71151276/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN%20PROFILE-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
   <a href="https://www.researchgate.net/profile/Linda-Maria-Gomes" target="_blank">
@@ -121,7 +121,7 @@ I enjoy building intrusion detection systems that are not only accurate but also
 
 <img src="https://img.shields.io/github/followers/marialindagomes?style=for-the-badge&logo=github&color=10b981&labelColor=0d1117" alt="Followers" />
 <img src="https://img.shields.io/github/stars/marialindagomes?style=for-the-badge&logo=github&color=10b981&labelColor=0d1117" alt="Stars" />
-<img src="https://img.shields.io/github/created-at/marialindagomes?style=for-the-badge&logo=github&color=10b981&labelColor=0d1117" alt="Account created" />
+
 
 <br><br>
 
@@ -319,7 +319,7 @@ I am open to **internships, research collaboration, and cybersecurity or ML proj
 <br>
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub_Profile-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marialindagomes)
-[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/linda-maria-gomes-a71151276)
+[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/linda-maria-gomes-a71151276])
 [![ResearchGate Profile](https://img.shields.io/badge/ResearchGate_Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Linda-Maria-Gomes)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-2551-9609)
 [![Email Me](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marialindagomes29@gmail.com)

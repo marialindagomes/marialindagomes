@@ -253,23 +253,6 @@ class LindaMariaGomes:
 </div>
 
 ---
-
-## 🎓 Education
-
-<div align="center">
-
-| Period | Details |
-|:--|:--|
-| 2023 – Dec 2026 *(expected)* | **B.Sc. in Computer Science & Engineering**, American International University-Bangladesh |
-| Jun – Dec 2023 | **Graphic Designer Intern**, Nokrek IT Institute, Dhaka |
-| 2022 / 2020 | HSC (Science), Holy Cross College / SSC (Science), Banani Bidyaniketon School & College |
-
-</div>
-
-
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">

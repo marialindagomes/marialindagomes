@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 300" width="420" height="300" role="img" aria-label="Shield with a check mark connected to a neural network">
+  <rect width="420" height="300" rx="16" fill="#07130f"/>
+  <g stroke="#0f2a22" stroke-width="1">
+    <path d="M0 50H420M0 100H420M0 150H420M0 200H420M0 250H420M70 0V300M140 0V300M210 0V300M280 0V300M350 0V300"/>
+  </g>
+  <g stroke="#10b981" stroke-width="1.5" opacity="0.55">
+    <path d="M60 90L135 100M60 90L135 150M60 150L130 140M60 150L135 100M60 210L135 200M60 210L130 150"/>
+    <path d="M360 90L285 100M360 90L285 150M360 150L290 140M360 150L285 100M360 210L285 200M360 210L290 150"/>
+  </g>
+  <path d="M210 42L292 74V150C292 200 257 236 210 254C163 236 128 200 128 150V74Z" fill="#065f46" stroke="#10b981" stroke-width="3"/>
+  <path d="M210 62L276 87V150C276 189 249 218 210 235C171 218 144 189 144 150V87Z" fill="#064e3b" opacity="0.85"/>
+  <path d="M176 148L202 174L248 118" fill="none" stroke="#d1fae5" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#10b981">
+    <circle cx="60" cy="90" r="9"><animate attributeName="opacity" values="1;0.35;1" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="60" cy="150" r="9"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="60" cy="210" r="9"><animate attributeName="opacity" values="1;0.35;1" dur="2.4s" begin="0.6s" repeatCount="indefinite"/></circle>
+    <circle cx="360" cy="90" r="9"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" begin="0.3s" repeatCount="indefinite"/></circle>
+    <circle cx="360" cy="150" r="9"><animate attributeName="opacity" values="1;0.35;1" dur="2.4s" begin="0.9s" repeatCount="indefinite"/></circle>
+    <circle cx="360" cy="210" r="9"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" begin="0.5s" repeatCount="indefinite"/></circle>
+  </g>
+  <g fill="#a855f7">
+    <circle cx="135" cy="100" r="5"/><circle cx="135" cy="150" r="5"/><circle cx="135" cy="200" r="5"/>
+    <circle cx="285" cy="100" r="5"/><circle cx="285" cy="150" r="5"/><circle cx="285" cy="200" r="5"/>
+  </g>
+  <text x="210" y="284" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="13" fill="#10b981">$ detect --explain --adapt</text>
+</svg>

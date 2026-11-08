@@ -115,22 +115,6 @@ I enjoy building intrusion detection systems that are not only accurate but also
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://img.shields.io/github/followers/marialindagomes?style=for-the-badge&logo=github&color=10b981&labelColor=0d1117" alt="Followers" />
-<img src="https://img.shields.io/github/stars/marialindagomes?style=for-the-badge&logo=github&color=10b981&labelColor=0d1117" alt="Stars" />
-
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=marialindagomes&theme=dark&hide_border=true&background=0D1117&ring=10b981&fire=10b981&currStreakLabel=10b981&sideLabels=10b981&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9DA7B3" alt="GitHub streak" />
-
-</div>
-
----
-
 ## 🧠 Research & Development Focus
 
 <div align="center">

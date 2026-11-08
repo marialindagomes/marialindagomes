@@ -282,31 +282,7 @@ class LindaMariaGomes:
 
 </div>
 
-<details>
-<summary><b>📜 Certifications & Courses</b></summary>
 
-<br>
-
-- Code to Cloud: Practical DevOps with AWS, Cloudly Infotech Limited (2026)
-- Computer Hardware Basics, Cisco Networking Academy (2026)
-- AI Awareness: Opportunities, Risks, and Responsibility, NeuroFlight Lab (2026)
-- AI Systems Seminar: Trust, Transparency, and Optimization, AIUB R&D Club (2026)
-- IT Essentials, Cisco Networking Academy (2023)
-- Graphic Designing with Freelancing, Nokrek IT Institute (2022–2023)
-
-</details>
-
-<details>
-<summary><b>🤝 Community & Activities</b></summary>
-
-<br>
-
-- Student Member, IEEE Computer Society (2026)
-- Member, AIUB Computer Club (2023–present); Volunteer, AIUB Cyber Gaming Fest (2025)
-- Participant, Stranger Danger Online: A Personal Cybersecurity Bootcamp, EMK Center (2026)
-- Participant, University Activation Program, ICT Division, Bangladesh Computer Council (2025)
-
-</details>
 
 ---
 
